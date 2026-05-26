@@ -6,3 +6,5 @@ pagina web personal desarrollada para presentar mi perfil personal, formacion ac
 
 - HTML
 - CSS
+
+https://docosovo.github.io/hoja-de-vida/
